@@ -1,0 +1,31 @@
+Setting,Customize,Hints
+Informações do StoryMaps,,Tutorial avançado: HandsOnDataViz.org
+Título do Projeto,PROJETO STORYMAPS,
+Sutítulo do projeto,Adicione o subtítulo do projeto br><small>Role para baixo<i class='fa fa-chevron-down'></i></small>,"
+Adicione sua legenda ou exclua essa parte"
+Logo do projeto,Colocar uma imagem de logo/capa do projeto (opcional),"Precisa inserir imagem na pasta ""media"" no GitHub e depois apenas inserir o ""nome"" da imagem no campo ao lado"
+ID de acompanhamento do Google Analytics,,
+Configurações do Mapa,,Tutorial Avançado: HandsOnDataViz.org
+Título da base cartográfica,CartoDB.Positron,Para encontrar outras bases cartográficas: background basemap tiles
+"Chave de API de Blocos de Mapa Base (NÃO MEXER)
+",6d158abccabe45708a8c3870240b4ce9,Access token or an API key for your chosen tiles (if required) (NÃO MEXER)
+Posição do controle (botão) de zoom,bottomright,"Bottomright: canto inferior direito
+Topright: canto superior direito
+Bottomleft: canto inferior esquerdo
+Topleft: canto superior esquerdo
+Off: sem botão/controle"
+Cor de fundo da barra de narração,green,
+Cor do texto de narração,black,
+Cor do Link na barra de narração,yellow,
+Cor do fundo do capítulo ativo,red,
+Altura da caixa de mídia,300,"Altura máxima da imagem, em pixels. O padrão é 200 pixels. A imagem caberá na caixa com suas proporções mantidas (não ficará distorcida)."
+Pixels After Final Chapter,600,Em pixels. Pelo menos 100
+"
+Habilitar lightbox para imagens",yes,yes (sim) or no (não)
+Créditos do trabalho,,Tutorial Avançado HandsOnDataViz.org
+Nome das pessoas da equipe,Colocar nome completo de todas as pessoas da equipe.,Aparece nos créditos do StoryMap do grupo
+Ano,2023,Ano de realização do trabalho
+Referências do trabalho,,"Para dados não autorais, inserir fontes aqui (nome e ano); separar as fontes por ponto e vírgula (;)"
+Agradecimentos e outras informações,,
+Author GitHub Repo Link,https://github.com/handsondataviz/leaflet-storymaps-with-google-sheets,"Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
+Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>","Appears in credits as ""...code by..."" (or leave blank)"
